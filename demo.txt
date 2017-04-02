@@ -3,3 +3,4 @@
 第三次文件
 使用all修改
 gitignore忽略文件
+gitignore忽略文件--*.js
